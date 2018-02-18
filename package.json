@@ -28,6 +28,7 @@
   "homepage": "https://github.com/akiran/react-highlight",
   "dependencies": {
     "highlight.js": "^9.11.0",
+    "highlightjs-solidity": "^1.0.5",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
