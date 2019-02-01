@@ -28,7 +28,9 @@
   "homepage": "https://github.com/akiran/react-highlight",
   "dependencies": {
     "highlight.js": "^9.11.0",
-    "highlightjs-solidity": "^1.0.5",
+    "highlightjs-solidity": "^1.0.5"
+  },
+  "peerDependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
   },
@@ -55,6 +57,8 @@
     "node-libs-browser": "^2.0.0",
     "phantomjs-prebuilt": "^2.1.14",
     "raw-loader": "^0.5.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
     "webpack": "^1.15.0",
     "webpack-dev-server": "^1.16.3"
   }
